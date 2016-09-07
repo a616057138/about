@@ -418,6 +418,10 @@ span.glyphicon.glyphicon.glyphicon-user {
 .gallery-2 {
   margin: 2em 0em;
 }
+.gallery .zoom-img .mask{
+    width: 400px;
+    height: 300px;
+}
 a.mask {
   text-decoration: none;
   overflow: hidden;
