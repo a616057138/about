@@ -76,7 +76,7 @@ nav a:focus {
 	transform: translateX(0px);
 }
 .header{
-	background: url(../images/banner.jpg)no-repeat;
+	background: url(../images/bg.jpg)no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -169,17 +169,21 @@ span.menu {
 /*--header end here--*/
 /*--about start here--*/
 .ab-left h4 {
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-weight: 600;
   color: #000;
   line-height: 1.5em;
   margin: 0em 0em 0.8em 0em;
 }
 .ab-left p {
-  font-size: 1em;
-  color: #A8A8A8;
+  font-size: 1.3em;
+  color: black;
+  font-family: 宋体;
   line-height: 1.8em;
   font-style: italic;
+}
+.about img{
+    width: 70%;
 }
 .about {
   padding: 0em 0em 6em 0em;
@@ -699,10 +703,13 @@ ul.res  a:hover,ul.res li a.active{
 .weare-left {
   width: 60%;
   margin: 0 auto;
+
 }
+
 .weare-left {
   width: 60%;
   margin: 0em auto 2em;
+
 }
 .weare-main h2 {
   font-size: 1.9em;
@@ -712,7 +719,7 @@ ul.res  a:hover,ul.res li a.active{
 }
 .ab-right {
   margin: 0 auto;
-  width: 70%;
+  width: 60%;
 }
 .ab-left p {
   line-height: 1.7em;
